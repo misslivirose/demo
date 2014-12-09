@@ -1,11 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/uWebKitExamples/Scripts/WebTextureExample.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/uWebKitExamples/Scripts/WebTexture.cs">
     <Files>
-      <File FileName="Assets/uWebKit/UWKWebView.cs" Line="280" Column="1" />
-      <File FileName="Assets/uWebKitExamples/Scripts/WebTexture.cs" Line="1" Column="1" />
+      <File FileName="Assets/uWebKitExamples/Scripts/WebTexture.cs" Line="57" Column="26" />
       <File FileName="Assets/uWebKitExamples/Scripts/WebGUIExample.cs" Line="1" Column="1" />
-      <File FileName="Assets/uWebKitExamples/Scripts/WebTextureExample.cs" Line="32" Column="3" />
+      <File FileName="Assets/uWebKitExamples/Scripts/WebTextureExample.cs" Line="32" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

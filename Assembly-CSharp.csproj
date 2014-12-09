@@ -89,12 +89,7 @@
      <Compile Include="Assets\uWebKitExamples\Scripts\WebTextureExample.cs" />
      <None Include="Assets\Plugins\donotdelete.txt" />
      <None Include="Assets\Plugins\x86_64\donotdelete.txt" />
-     <None Include="Assets\UWEBKIT_LICENSE_SOURCE.txt" />
-     <None Include="Assets\OVR\Shaders\TextShader3D.shader" />
-     <None Include="Assets\UWEBKIT_LICENSE_BINARY.txt" />
-     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\Heureka\AssetHunter\Readme.txt" />
-     <None Include="Assets\UWEBKIT_GETTINGSTARTED.txt" />
      <None Include="Assets\OVR\Shaders\OVRGUIShader.shader" />
      <None Include="Assets\Plugins\x86\donotdelete.txt" />
   </ItemGroup>
